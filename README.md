@@ -1,10 +1,10 @@
-# Conspicuity Models
+# General UAS Visual Conspicuity Model
 
-Streamlit application implementing the Morris (2005) and Andrews (1991) visual acquisition models exactly as documented in Appendix A of the Skydweller Airspace Integration Safety Case Report (Version 0.07, 28 February 2026).
+Streamlit application implementing the Morris (2005) and Andrews (1991) conspicuity models for **any UAS platform**.
 
-## Deployment
-1. Connect this repository to Streamlit Community Cloud.
-2. Set main file path to `app.py`.
+## Deployment on Streamlit Community Cloud
+1. Connect this repository.
+2. Main file path: `app.py`
 3. Deploy.
 
-The app will be live within seconds.
+The app is ready for immediate use in safety case reports.
