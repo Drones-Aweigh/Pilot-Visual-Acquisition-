@@ -1,7 +1,10 @@
-echo "# Pilot-Visual-Acquisition-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Drones-Aweigh/Pilot-Visual-Acquisition-.git
-git push -u origin main
+# Conspicuity Models
+
+Streamlit application implementing the Morris (2005) and Andrews (1991) visual acquisition models exactly as documented in Appendix A of the Skydweller Airspace Integration Safety Case Report (Version 0.07, 28 February 2026).
+
+## Deployment
+1. Connect this repository to Streamlit Community Cloud.
+2. Set main file path to `app.py`.
+3. Deploy.
+
+The app will be live within seconds.
